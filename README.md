@@ -1,2 +1,2 @@
 # Tailwind_Dashboard
-SPS Internship Task 4 (Interactive Dashboard using Tailwind)
+SPS Internship Task 4 (Interactive Dashboard) | Dashboard using Tailwind
